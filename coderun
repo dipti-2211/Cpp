@@ -1,0 +1,16 @@
+c
+// for c++ run
+lang++ -std=c++11 i.cpp -o in
+ ./in
+
+for oops 
+g++ filename.cpp -o output
+./output
+
+for vector 
+g++ vector_class.cpp -o vector_class
+./vector_class
+
+for ll / dll
+g++ -std=c++11 dll.cpp -o dll
+./dll

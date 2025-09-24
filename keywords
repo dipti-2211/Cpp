@@ -1,0 +1,8 @@
+//function overloading
+//function overloading is a feature in C++ that allows you to define multiple functions with the same name but different parameters.
+
+//overridding
+//overriding is a feature in C++ that allows a derived class to provide a specific implementation of a function that is already defined in its base class. This is done by defining a 
+
+//virtual
+//It lets a child class override a function, and when you call it using a pointer or reference, the child’s version runs.
